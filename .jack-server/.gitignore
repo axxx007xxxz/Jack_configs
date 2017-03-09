@@ -1,0 +1,6 @@
+*.jar
+*.jks
+*.log
+*.pem
+jack
+logs
